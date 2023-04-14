@@ -1,5 +1,9 @@
 # Piano
+<img width="956" alt="Captura de tela 2023-04-13 220310" src="https://user-images.githubusercontent.com/100203503/231914889-74d6faf9-1565-4170-bea4-1072b6755b6b.png">
 
+## Show Keys ativado:
+
+<img width="958" alt="Captura de tela 2023-04-13 220332" src="https://user-images.githubusercontent.com/100203503/231914910-4f568efa-3b8c-47d2-8142-f359e097963a.png">
 
 View: https://piano-kohl-nine.vercel.app/
 ## Projeto
